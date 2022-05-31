@@ -8,7 +8,7 @@ Zip your executable files for your app -> Create a 'version.txt' file and type d
 ![image](https://user-images.githubusercontent.com/97263413/170921964-edcb67f3-987b-4cc1-b279-7a5829aedb14.png)
 
 ### Installation and Customization
-Download the folder -> go to MainWindow.xaml.cs -> Change the 'specificFolder' variable to a path you want your data files to be in -> change configInfo according to the comments -> save and open this 'AppUpdaterUtility.sln' in Visual Studio (with .NET Core installed) -> change properties to change icon of app, name of app, etc. -> publish the app (should be a .exe file) -> Distribute this '.exe' file to others 
+Download the folder -> go to MainWindow.xaml.cs -> Change the 'specificFolder' variable to a path you want your data files to be in -> change configInfo according to the comments -> save and open 'AppUpdaterUtility.sln' in Visual Studio (with .NET Core installed) -> change properties to change icon of app, name of app, etc. -> publish the app (should be a .exe file) -> Distribute this '.exe' file to others 
 
 ### Updating your files
 Once you updated the executable files for your app: Update the files in your online file server (Make sure the updated file has the same link as the old file) -> Update the version number in the 'version.txt' file
