@@ -2,6 +2,12 @@
 Allows users to update an app if a new version is available on an online file server (e.g. Dropbox).
 Works for Windows only.
 
+## Video
+
+
+https://user-images.githubusercontent.com/97263413/171318135-5db762de-3580-496c-a1ec-50ccb553fb0c.mp4
+
+
 ## Usage
 ### Uploading your files
 Zip your executable files for your app -> Create a 'version.txt' file and in the file, type in your version number -> Upload both files to any online file server like Dropbox -> Copy the link of both files. You are going to need these links for the customizing process. 
