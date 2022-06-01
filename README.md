@@ -2,7 +2,7 @@
 Allows users to update an app if a new version is available on an online file server (e.g. Dropbox).
 Works for Windows only.
 
-## Video
+## Demonstration
 
 
 https://user-images.githubusercontent.com/97263413/171318135-5db762de-3580-496c-a1ec-50ccb553fb0c.mp4
